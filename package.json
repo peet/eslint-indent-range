@@ -1,0 +1,16 @@
+{
+  "name": "eslint-import-range",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.1.1"
+  }
+}
